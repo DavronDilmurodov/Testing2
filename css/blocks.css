@@ -1,0 +1,12 @@
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header .logo {
+  background-color: brown;
+  color: #fff;
+  font-size: 22px;
+  padding: 12px;
+  border-radius: 15px;
+}/*# sourceMappingURL=blocks.css.map */
